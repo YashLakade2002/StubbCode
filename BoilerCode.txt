@@ -1,8 +1,6 @@
 #include<bits/stdc++.h> 
 using namespace std; 
 #define ll long long 
-#define L(i, j, k) for(int i = (j); i < (k); ++i)
-#define R(i, j, k) for(int i = (j); i > (k); --i)
 #define vec vector <int>
 
 void solve(){ 
